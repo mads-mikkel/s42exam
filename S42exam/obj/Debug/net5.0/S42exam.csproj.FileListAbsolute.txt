@@ -1,0 +1,16 @@
+C:\Users\mara\source\repos\sandbox\S42exam\S42exam\bin\Debug\net5.0\S42exam.exe
+C:\Users\mara\source\repos\sandbox\S42exam\S42exam\bin\Debug\net5.0\S42exam.deps.json
+C:\Users\mara\source\repos\sandbox\S42exam\S42exam\bin\Debug\net5.0\S42exam.runtimeconfig.json
+C:\Users\mara\source\repos\sandbox\S42exam\S42exam\bin\Debug\net5.0\S42exam.runtimeconfig.dev.json
+C:\Users\mara\source\repos\sandbox\S42exam\S42exam\bin\Debug\net5.0\S42exam.dll
+C:\Users\mara\source\repos\sandbox\S42exam\S42exam\bin\Debug\net5.0\ref\S42exam.dll
+C:\Users\mara\source\repos\sandbox\S42exam\S42exam\bin\Debug\net5.0\S42exam.pdb
+C:\Users\mara\source\repos\sandbox\S42exam\S42exam\obj\Debug\net5.0\S42exam.csproj.AssemblyReference.cache
+C:\Users\mara\source\repos\sandbox\S42exam\S42exam\obj\Debug\net5.0\S42exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mara\source\repos\sandbox\S42exam\S42exam\obj\Debug\net5.0\S42exam.AssemblyInfoInputs.cache
+C:\Users\mara\source\repos\sandbox\S42exam\S42exam\obj\Debug\net5.0\S42exam.AssemblyInfo.cs
+C:\Users\mara\source\repos\sandbox\S42exam\S42exam\obj\Debug\net5.0\S42exam.csproj.CoreCompileInputs.cache
+C:\Users\mara\source\repos\sandbox\S42exam\S42exam\obj\Debug\net5.0\S42exam.dll
+C:\Users\mara\source\repos\sandbox\S42exam\S42exam\obj\Debug\net5.0\ref\S42exam.dll
+C:\Users\mara\source\repos\sandbox\S42exam\S42exam\obj\Debug\net5.0\S42exam.pdb
+C:\Users\mara\source\repos\sandbox\S42exam\S42exam\obj\Debug\net5.0\S42exam.genruntimeconfig.cache
